@@ -42,7 +42,7 @@ Below are images showcasing various features of the software:
 ![cutomer details](https://github.com/user-attachments/assets/654d1b56-d562-489c-8dd1-f1d76cc11266)
 
 - **Generate Invoice** 
- ![generate invoice](https://github.com/user-attachments/assets/eff41724-54eb-471c-a1ee-60a7a70f1dc6)
+![generate invoice](https://github.com/user-attachments/assets/9fe255ee-13d4-4c14-bae3-d8c1d5ae5a57)
 
 - **Ledger Management**  
 ![ledger](https://github.com/user-attachments/assets/ded5deb4-e2c6-42f8-bdab-810ae78af614)
