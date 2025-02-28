@@ -31,8 +31,23 @@ This project is a web-based business management system designed to assist busine
 Below are images showcasing various features of the software:  
 
 - **Login/Signup Page**  
-- **Add Purchase**  
+![signup](https://github.com/user-attachments/assets/3e6e025a-ca8c-4533-bc31-e9e07d1d295d)
+![login](https://github.com/user-attachments/assets/95b297cc-2bc6-46b9-bf6f-311152ea34f2)
+
+- **Add Purchase**
+- ![addpurchase](https://github.com/user-attachments/assets/2ac63982-b90b-4d51-a3e1-080f537907ac)
+![addpurchase2](https://github.com/user-attachments/assets/21a04711-76d0-43dd-8229-ebb0fcbbbde9)
+
 - **Customer Record Maintenance**  
-- **Generate Invoice**  
+![cutomer details](https://github.com/user-attachments/assets/654d1b56-d562-489c-8dd1-f1d76cc11266)
+
+- **Generate Invoice** 
+ ![generate invoice](https://github.com/user-attachments/assets/eff41724-54eb-471c-a1ee-60a7a70f1dc6)
+
 - **Ledger Management**  
+![ledger](https://github.com/user-attachments/assets/ded5deb4-e2c6-42f8-bdab-810ae78af614)
+
 - **Manage Inventory**  
+![manage inventory](https://github.com/user-attachments/assets/00eb12e5-2620-47ae-b545-52628ba544c9)
+
+
