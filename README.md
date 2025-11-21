@@ -1,4 +1,4 @@
-# Digital Business Management System - "Digital Inventory & Ledger App"
+# Digital Business Management System
 
 ## 🚀 Project Overview
 
