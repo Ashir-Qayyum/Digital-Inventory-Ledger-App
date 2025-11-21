@@ -57,17 +57,21 @@ The central navigation hub of the application, completely redesigned from a basi
 *   **Notification System:** The homepage features on-demand notifications that alert the user to overdue invoices or a net loss in profit, providing immediate business insights upon login.
 *   **Personalization:** The greeting message is personalized by fetching and displaying the user's saved `username` from the database.
 
-| With Notifications | With Accounts Actions |
-|----------------|----------------|
-| <img width="1366" height="596" alt="image" src="https://github.com/user-attachments/assets/aa063ef9-ded5-4af1-bebe-3a776d47a6d6" />
- | <img width="1366" height="586" alt="image" src="https://github.com/user-attachments/assets/d692fc7e-ddc3-464d-8454-f351b108ae02" />
- |
+| With Notifications |
+|----------------|
+| <img width="1366" height="596" alt="image" src="https://github.com/user-attachments/assets/aa063ef9-ded5-4af1-bebe-3a776d47a6d6" /> |<br>
 
-| With Changing Passwords | With Account Deletion |
-|----------------|----------------|
-| <img width="1366" height="590" alt="image" src="https://github.com/user-attachments/assets/39b639b5-7b64-491b-8487-a413bea3299c" />
- | <img width="1366" height="591" alt="image" src="https://github.com/user-attachments/assets/8a72e8c0-80ae-46d6-ad42-11bd58a0832f" />
- |
+| With Accounts Actions |
+|----------------|
+| <img width="1366" height="586" alt="image" src="https://github.com/user-attachments/assets/d692fc7e-ddc3-464d-8454-f351b108ae02" /> |<br>
+
+| With Changing Passwords | 
+|----------------|
+| <img width="1366" height="590" alt="image" src="https://github.com/user-attachments/assets/39b639b5-7b64-491b-8487-a413bea3299c" /> |<br>
+
+| With Account Deletion |
+|----------------|
+| <img width="1366" height="591" alt="image" src="https://github.com/user-attachments/assets/8a72e8c0-80ae-46d6-ad42-11bd58a0832f" /> |<br>
 
 ### 4. Add Purchase (Vendor Dashboard)
 The main dashboard for viewing and managing all business vendors and their associated purchases.
